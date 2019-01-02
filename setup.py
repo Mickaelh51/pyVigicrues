@@ -15,7 +15,7 @@ with open(path.join(here, 'README.rst'), encoding='utf-8') as f:
 
 setup(
       name='pyvigicrues',
-      version='0.1',
+      version='0.0.1',
       description='Get level and speed from many French rivers (https://www.vigicrues.gouv.fr/)',
       long_description=long_description,
       author='Mickael HUBERT',
