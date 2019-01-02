@@ -17,6 +17,10 @@ pyVigicrues
 
 Get level and speed from many French rivers (https://www.vigicrues.gouv.fr/)
 
+Help on blog (in French)
+------------------------
+https://voiprovider.wordpress.com/2019/01/02/pyvigicrues-un-module-python-pour-collecter-les-data-des-cours-deau-en-france/
+
 Installation
 ------------
 
