@@ -33,7 +33,6 @@ Usage
 -----
 Print your current data
 
-    pyVigicrues -u <USERNAME> -p <PASSWORD>
     pyvigicrues -s <STATIONID> -t <TYPE OF DATA>
 
 Dev env
