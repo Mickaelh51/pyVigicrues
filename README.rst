@@ -34,8 +34,9 @@ Usage
 Print your current data
 
     pyvigicrues -s <STATIONID> -t <TYPE OF DATA>
-    - Ex: pyvigicrues -s H523102501 -t H # for level
-    - Ex: pyvigicrues -s H523102501 -t Q # for speed
+
+- Ex: pyvigicrues -s H523102501 -t H # for level
+- Ex: pyvigicrues -s H523102501 -t Q # for speed
 
 Dev env
 -------
